@@ -1,0 +1,1 @@
+Hello <?php echo $_POST['name']?>, Your form submitted successfully !
